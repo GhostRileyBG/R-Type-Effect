@@ -1,4 +1,4 @@
-# R-Type-Effect
+# R-Type Effect
 
 Want to go back to 1987 while still be in 2022 ? Well jump into R-Type Effect to experience the arcade games in Virtual Reality !
 
